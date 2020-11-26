@@ -24,7 +24,7 @@
     "juice-resources-promise": "^0.0.2",
     "lodash": "^4.17.4",
     "nodemailer": "^4.4.1",
-    "preview-email": "^0.0.7"
+    "preview-email": "^3.0.2"
   },
   "devDependencies": {
     "ava": "^0.25.0",
